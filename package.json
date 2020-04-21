@@ -1,0 +1,27 @@
+{
+  "name": "pricing-component",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Pricing component with toggle master",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armino-dev/pricing-component.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Armino Popp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armino-dev/pricing-component/issues"
+  },
+  "homepage": "https://github.com/armino-dev/pricing-component#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
