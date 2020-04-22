@@ -231,9 +231,9 @@ h1 {
   border-radius: 50%; }
 
 .attribution {
-  margin-top: 20px;
   font-size: 11px;
-  text-align: center; }
+  text-align: center;
+  padding: 20px 0; }
 
 .attribution a {
   color: #3e52a3;
